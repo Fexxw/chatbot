@@ -40,7 +40,7 @@ class ButtonTexts:
 
     @staticmethod
     def back() -> str:
-        return "Вернуться"
+        return "Вернуться "
 
 
 class CallbackData:
