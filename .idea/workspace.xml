@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2ea55b2-c880-4924-8dca-0bd69e9bde51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/telegram-gmaps-bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/buttons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/handlers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/handlers/expand_point_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/handlers/get_contacts_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/handlers/get_map_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/handlers/main_menu_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/handlers/route_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/handlers/start_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/point_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/photo_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/src/assets/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/src/assets/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/src/assets/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/src/assets/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/src/assets/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/src/assets/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/src/assets/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/src/assets/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/src/config/generated/photo_ids.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/src/config/generated/photo_ids.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vJCwaQpA9V1uTp6Swmea5VPpAt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Docker.deploy.bot: Compose Deployment.executor": "Run",
+    "Python.main.executor": "Debug",
+    "Python.photo_loader.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/fexxsa/PycharmProjects/telegram-gmaps-bot/src/scripts/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fexxsa\PycharmProjects\telegram-gmaps-bot\src\scripts\src" />
+      <recent name="C:\Users\fexxsa\PycharmProjects\telegram-gmaps-bot\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fexxsa\PycharmProjects\telegram-gmaps-bot" />
+      <recent name="C:\Users\fexxsa\PycharmProjects\telegram-gmaps-bot\src\bot\handlers" />
+      <recent name="C:\Users\fexxsa\PycharmProjects\telegram-gmaps-bot\src" />
+      <recent name="C:\Users\fexxsa\PycharmProjects\telegram-gmaps-bot\deploy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="telegram-gmaps-bot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="photo_loader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="telegram-gmaps-bot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/scripts/photo_loader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy.bot: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="services">
+            <list>
+              <option value="bot" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="deploy/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.photo_loader" />
+        <item itemvalue="Docker.deploy.bot: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19416.19" />
+        <option value="bundled-python-sdk-337b0a7a993a-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19416.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2ea55b2-c880-4924-8dca-0bd69e9bde51" name="Changes" comment="" />
+      <created>1743854029731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743854029731</updated>
+      <workItem from="1743854030317" duration="1487000" />
+      <workItem from="1744519979174" duration="45895000" />
+      <workItem from="1746195563334" duration="4782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/bot/handlers/route_handler.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="django-exception">
+          <properties exception="VariableDoesNotExist" />
+        </breakpoint>
+        <breakpoint enabled="true" type="jinja2-exception">
+          <properties exception="TemplateError" />
+        </breakpoint>
+        <breakpoint enabled="true" type="javascript-exception" />
+        <breakpoint enabled="true" type="jupyter-exception">
+          <properties exception="BaseException" />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/telegram_gmaps_bot$main.coverage" NAME="main Coverage Results" MODIFIED="1746200399936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/telegram_gmaps_bot$photo_loader.coverage" NAME="photo_loader Coverage Results" MODIFIED="1746197946157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/scripts" />
+  </component>
+</project>
