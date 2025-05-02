@@ -6,6 +6,6 @@ COPY requirements.txt .
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY deploy .
+COPY . .
 
-CMD ["python", "src/scripts/photo_loader.py"]
+CMD ["python", "src/main.py"]
