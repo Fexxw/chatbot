@@ -1,4 +1,5 @@
 import re
+
 from .point_data import POINTS
 
 

@@ -1,5 +1,6 @@
 import os
-from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton
+
+from telegram import Update, InlineKeyboardMarkup
 from telegram.ext import ContextTypes
 
 from bot.buttons import main_menu_button

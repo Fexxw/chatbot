@@ -1,9 +1,7 @@
-from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton
+from telegram import Update, InlineKeyboardMarkup
 from telegram.ext import CallbackContext
+
 from bot.buttons import ButtonTexts
-from bot.constants import CallbackData
-
-
 from bot.buttons import route_menu_button, map_button, contacts_button
 
 

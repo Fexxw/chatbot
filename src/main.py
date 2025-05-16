@@ -1,7 +1,7 @@
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler
 
-from bot.handlers import *
 from bot.constants import *
+from bot.handlers import *
 from config.config import BOT_TOKEN
 
 

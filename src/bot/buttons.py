@@ -1,4 +1,5 @@
-from telegram import InlineKeyboardButton, InlineKeyboardMarkup
+from telegram import InlineKeyboardButton
+
 from .constants import *
 
 
